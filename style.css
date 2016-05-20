@@ -110,7 +110,7 @@ h1, h2, h3, h4, h5, h6
 .point-body
 {
     font-family: sans-serif;
-    font-size: 14px;
+    font-size: 18px;
     font-weight: 200;
     color: #000;
     opacity: 1;
@@ -124,6 +124,7 @@ h1, h2, h3, h4, h5, h6
     letter-spacing: 4px;
     opacity: 1;
     text-transform: uppercase;
+    padding-bottom: 50px;
 }
 .top-title
 {
