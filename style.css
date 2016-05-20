@@ -107,6 +107,26 @@ h1, h2, h3, h4, h5, h6
 {
 	padding: 90px 0px 130px;
 }
+.point-body
+{
+    font-size: 14px;
+    font-weight: 700;
+    color: #000;
+    line-height: 38px;
+    letter-spacing: 4px;
+    opacity: 1;
+    text-transform: uppercase;
+}
+.sub-point
+{
+    font-size: 27px;
+    font-weight: 700;
+    color: #000;
+    line-height: 38px;
+    letter-spacing: 4px;
+    opacity: 1;
+    text-transform: uppercase;
+}
 .top-title
 {
 	z-index: 5;
@@ -120,7 +140,7 @@ h1, h2, h3, h4, h5, h6
 }
 .sub-title
 {
-	font-size: 50px;
+	font-size: 20px;
 	font-weight: 700;
 	color: #fff;
 	line-height: 71px;
@@ -130,7 +150,7 @@ h1, h2, h3, h4, h5, h6
 }
 .title
 {
-	font-size: 123px;
+	font-size: 60px;
 	font-weight: 700;
 	color: #fff;
 	line-height: 88px;
