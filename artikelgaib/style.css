@@ -449,5 +449,6 @@ a, a:hover
 
 .imgcenter {
     text-align: center;
+    margin: auto;
 }
 /****/
