@@ -446,4 +446,8 @@ a, a:hover
         font-size: 20px;
     }
 }
+
+.imgcenter {
+    text-align: center;
+}
 /****/
